@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head><title>Ball Webpage</title></head>
+    <body>
+        <h1>DIFFERENT KIND OF BALL</h1>
+        <P>
+            <ol>
+                <li>Basket ball</li>
+                <img src="i1.jpg">
+                <li>Soccer ball</li>
+                <img src="i2.jpg">
+                <li>Plastic ball</li>
+                <img src="i3.jpg">
+            </ol>
+        </P><br>
+        <p>Also there are some other kind of ball and their photos.<a href="https://www.istockphoto.com/photos/small-plastic-balls"> click here</a> to access more of it.</p>
+    </body>
+</html>
